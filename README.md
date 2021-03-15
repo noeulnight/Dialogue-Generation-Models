@@ -1,6 +1,10 @@
 # 이루다 모델 api  
 해당 프로젝트는 모델 파일을 제공하지 않습니다
 
+API 요청방법
+[post] localhost:5000/run
+json : ["text1", "text2"]
+
 <details open>
 <summary>Skaterlab README.md</summary>
 <br>
